@@ -1,0 +1,98 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1595107840000)
++++ .idea/workspace.xml	(date 1595109525559)
+@@ -1,8 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="9a03a462-2627-4ec6-a2ca-f2448f94a94c" name="Default Changelist" comment="commit">
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    <list default="true" id="9a03a462-2627-4ec6-a2ca-f2448f94a94c" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -11,29 +11,7 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="FileEditorManager">
+-    <leaf>
+-      <file pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/app.py">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="125">
+-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+-              <folding>
+-                <element signature="e#21#31#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/templates/currency.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="306">
+-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-    </leaf>
++    <leaf />
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -154,12 +132,18 @@
+       <option name="project" value="LOCAL" />
+       <updated>1595106881332</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="commit">
++      <created>1595107840570</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1595107840570</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+-    <editor active="true" />
+     <layout>
+       <window_info id="Favorites" side_tool="true" />
+       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15773809" />
+@@ -185,13 +169,6 @@
+     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+   </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/templates/currency.html">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="306">
+-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+-        </state>
+-      </provider>
+-    </entry>
+     <entry file="file://$PROJECT_DIR$/app.py">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="125">
+@@ -199,6 +176,13 @@
+           <folding>
+             <element signature="e#21#31#0" expanded="true" />
+           </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/templates/currency.html">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="306">
++          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+         </state>
+       </provider>
+     </entry>
